@@ -1,2 +1,8 @@
-﻿  transfer-Functions.cpp
+﻿  AI-VIZ.cpp
+C:\Users\jakeh\source\repos\AI-VIZ\AI-VIZ\AI-VIZ.cpp(23,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  transfer-Optimization-List.cpp
+  transfer-Functions.cpp
+  Compiling...
+  Generating Code...
   AI-VIZ.vcxproj -> C:\Users\jakeh\source\repos\AI-VIZ\Debug\AI-VIZ.exe
+C:\Users\jakeh\source\repos\AI-VIZ\AI-VIZ\NeuralNet\transfer-Optimization-List.cpp(33): warning C6011: Dereferencing NULL pointer 'addNode'. 

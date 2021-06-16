@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AI-VIZ",
+    "\\AI-VIZ-UNIT-TEST",
+    "\\AI-VIZ-UNIT-TEST\\Debug",
+    "\\AI-VIZ-UNIT-TEST\\NeuralNet",
+    "\\AI-VIZ-UNIT-TEST\\NeuralNet\\TransferFunctions",
+    "\\AI-VIZ\\NeuralNet",
+    "\\NonCommit\\1x",
+    "\\x64\\Debug"
+  ],
+  "SelectedNode": "\\AI-VIZ-UNIT-TEST\\NeuralNet\\TransferFunctions\\testBuildTransferOptimizationList.cpp",
+  "PreviewInSolutionExplorer": false
+}

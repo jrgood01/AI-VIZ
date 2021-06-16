@@ -142,8 +142,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AI-VIZ.cpp" />
-    <ClCompile Include="transfer-Optimization-List.cpp" />
-    <ClCompile Include="transfer-Functions.cpp" />
+    <ClCompile Include="NeuralNet\transfer-Optimization-List.cpp" />
+    <ClCompile Include="NeuralNet\transfer-Functions.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\NonCommit\1x\Splash.png" />
@@ -152,8 +152,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="transfer-Functions.h" />
-    <ClInclude Include="transfer-Optimization-List.h" />
+    <ClInclude Include="NeuralNet\transfer-Functions.h" />
+    <ClInclude Include="NeuralNet\transfer-Optimization-List.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
